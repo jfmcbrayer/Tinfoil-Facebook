@@ -43,6 +43,7 @@ android {
         abortOnError false
     }
 
+    buildToolsVersion '25.0.0'
 }
 
 final SUPPORT_LIBRARY_VERSION = rootProject.ext.SUPPORT_LIBRARY_VERSION
